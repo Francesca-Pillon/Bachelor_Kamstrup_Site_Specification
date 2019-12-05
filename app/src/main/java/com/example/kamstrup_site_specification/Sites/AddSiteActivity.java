@@ -21,7 +21,6 @@ import androidx.lifecycle.ViewModelProviders;
 import com.example.kamstrup_site_specification.R;
 import com.example.kamstrup_site_specification.Sites.Database_site.SiteDatabase;
 import com.example.kamstrup_site_specification.Sites.Database_site.SiteEntry;
-import com.example.kamstrup_site_specification.Sites.QuoteWebservice.QuoteDisplay;
 
 
 import java.util.Date;
