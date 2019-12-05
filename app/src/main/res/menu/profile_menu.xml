@@ -7,7 +7,7 @@
 
     <item
         android:id="@+id/projects_profile_menu"
-        android:orderInCategory="100"
+        android:orderInCategory="1"
         android:title="Profile"
         app:showAsAction="ifRoom"
         android:icon="@drawable/project"
@@ -15,17 +15,14 @@
 
     <item
         android:id="@+id/sites_profile_menu"
-        android:orderInCategory="100"
+        android:orderInCategory="2"
         android:title="Sites"
         app:showAsAction="ifRoom"
-        android:icon="@drawable/antenna"
-
-        />
-
+        android:icon="@drawable/antenna" />
 
     <item
         android:id="@+id/sign_out_profile_menu"
-        android:orderInCategory="100"
+        android:orderInCategory="3"
         android:title="Sign out"
         app:showAsAction="never" />
 
